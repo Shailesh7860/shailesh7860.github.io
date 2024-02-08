@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://twitter.com/shailesh_7860" target="blank"><img src="https://img.shields.io/twitter/follow/shailesh_7860?logo=twitter&style=for-the-badge" alt="shailesh_7860" /></a> </p>
 
 - 🌱 I’m currently learning **Oracle**
-
-- 👨‍💻 Some of my projects are available at [https://github.com/Shailesh7860?tab=repositories](https://github.com/Shailesh7860?tab=repositories)
+- 🌐 **Blog** [Website link](https://sharpdigi.blogspot.com)
+- 👨‍💻 Some of my projects are available at [Repositories](https://github.com/Shailesh7860?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
