@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/shaileshsuvarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaileshsuvarna" height="30" width="40" /></a>
 <a href="https://instagram.com/shailesh_7860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shailesh_7860" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@shailesh_7860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shailesh_7860" height="30" width="40" /></a>
-<a href="https://sharpdigi.blogspot.com" target="blank"><img align="center" src="https://github.com/rahuldkjain/gh-profile-readme-generator/blob/dev/src/images/icons/Social/blogger.svg" alt="@shailesh_7860" height="30" width="40" /></a>
+<a href="https://sharpdigi.blogspot.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Blogger_icon.svg" alt="@shailesh_7860" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
