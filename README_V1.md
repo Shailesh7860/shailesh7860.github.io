@@ -3,7 +3,8 @@
 
 <!--<p align="left" width="50"> <img src="https://komarev.com/ghpvc/?username=shailesh7860&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>-->
 
-<p align="left"> <a href="https://twitter.com/shailesh_7860" target="blank"><img src="https://img.shields.io/twitter/follow/shailesh_7860?logo=twitter&style=for-the-badge" alt="shailesh_7860" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shailesh_7860" target="blank"><img src="https://img.shields.io/twitter/follow/shailesh_7860?logo=twitter&style=for-the-badge" alt="shailesh_7860" /></a> &nbsp
+ <a href="https://www.youtube.com/@shailesh_7860" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCFrQ4OAO-GRbSyfUP-9QAPg" alt="shailesh_7860" /></a> </p>
 
 - 🌱 I’m currently learning **Oracle**
 - 🌐 **Blog** [Website link](https://sharpdigi.blogspot.com)
