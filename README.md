@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shailesh Suvarna</h1>
+<h1 align="center">Hi 👋, I'm <br> Shailesh Suvarna</h1>
 <h3 align="center">A Tech Enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailesh7860" alt="shailesh7860" /></a> </p>
