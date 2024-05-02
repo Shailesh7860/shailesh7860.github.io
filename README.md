@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/Shailesh7860?tab=repositories)**
 
-- 📝 I regularly post articles on **[Sharp DIGI](https://sharpdigi.blogspot.com/)**
+- 🌐 I regularly post articles on **[Sharp DIGI](https://sharpdigi.blogspot.com/)**
 
-- 📄 Know about my experiences on **[LinkedIn](https://linkedin.com/in/shaileshsuvarna)**
+- 📝 Know about my experiences on **[LinkedIn](https://linkedin.com/in/shaileshsuvarna)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
