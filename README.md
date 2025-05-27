@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm <br> Shailesh Suvarna</h1>
-<h3 align="center">A Tech Enthusiast from India</h3>
+<h3 align="center">A Tech Enthusiast based in Mumbai,India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailesh7860" alt="shailesh7860" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/shailesh_7860" target="blank"><img src="https://img.shields.io/twitter/follow/shailesh_7860?logo=twitter&style=for-the-badge" alt="shailesh_7860" /></a> </p>
 
-- 🌱 I’m currently learning **Oracle**
+- 💻 I enjoy building and automating small-scale projects to learn and solve real problems — from setting up backup systems with rsync and Duplicati, to experimenting with Raspberry Pi and NodeMCU for smart home automation.
 
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/Shailesh7860?tab=repositories)**
+- 🌱  I'm constantly learning — right now, exploring more about **networking and ethical hacking**.
 
-- 🌐 I regularly post articles on **[Sharp DIGI](https://sharpdigi.blogspot.com/)**
+- 🔧 I’ve worked with tools and technologies like Bash, Python, MySQL, Docker, WordPress, Linux (Ubuntu/Debian), Portainer, and more.
 
-- 📝 Know about my experiences on **[LinkedIn](https://linkedin.com/in/shaileshsuvarna)**
+- 📂 You can find all my hands-on projects and explorations on **[Github](https://github.com/Shailesh7860?tab=repositories)**
+
+- 🔗 Let’s connect on **[LinkedIn](https://linkedin.com/in/shaileshsuvarna)** or check out my posts on **[Sharp DIGI](https://sharpdigi.blogspot.com/)** if you’re curious about what I’m exploring.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
