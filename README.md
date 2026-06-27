@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <br> Shailesh Suvarna</h1>
 <h3 align="center">DevOps & Cloud Infrastructure Engineer based in Mumbai, India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailesh7860" alt="shailesh7860" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=shailesh7860&theme=darkhub" alt="shailesh7860" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/shailesh_7860" target="blank"><img src="https://img.shields.io/twitter/follow/shailesh_7860?logo=twitter&style=for-the-badge" alt="shailesh_7860" /></a> </p>
 
