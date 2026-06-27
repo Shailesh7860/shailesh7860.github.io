@@ -1,3 +1,4 @@
+<div style="background-color: #0d1117; color: #c9d1d9; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; padding: 30px; min-height: 100vh;">
 <h1 align="center">Hi 👋, I'm <br> Shailesh Suvarna</h1>
 <h3 align="center">DevOps & Cloud Infrastructure Engineer based in Mumbai, India</h3>
 
@@ -46,3 +47,4 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 </p>
+</div>
