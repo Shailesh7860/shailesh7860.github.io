@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Shailesh Suvarna | DevOps & Cloud Engineer
+description: DevOps & Cloud Infrastructure Engineer based in Mumbai, India
+
+# This tells Jekyll exactly where to find your tab icon
+favicon: ./favicon.svg
