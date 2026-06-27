@@ -1,3 +1,14 @@
+<style>
+  /* Hides the default header container for Jekyll Hacker theme */
+  #header_wrap { display: none !important; }
+  
+  /* Hides the default header for Midnight, Slate, and Cayman themes */
+  .header, header, .page-header { display: none !important; }
+  
+  /* Cleans up extra top padding so your custom header sits nicely */
+  #main_content_wrap, .main-content { padding-top: 20px !important; }
+</style>
+
 <h1 align="center">Hi 👋, I'm <br> Shailesh Suvarna</h1>
 <h3 align="center">DevOps & Cloud Infrastructure Engineer based in Mumbai, India</h3>
 
