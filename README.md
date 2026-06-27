@@ -26,7 +26,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://us-east-1.signin.aws/assets/static/img/builderId_header_logo.png)" alt="aws" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg)" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="bash" width="40" height="40"/> </a> 
